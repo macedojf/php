@@ -1,6 +1,7 @@
 <?php
 
-echo "Ola Mundo 123!";
+echo "Ola Mundo teste!";
 
-echo "Ola HCODE!";
+echo "ola Udemy teste";
+
 ?>
